@@ -15,6 +15,11 @@ models = {
         'type': 'local',
         'filename': 'mistral-7b-instruct-v0.1.Q5_K_M.gguf',
     },
+    'Mixtral-8x7b': {
+        'url': 'https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf',
+        'type': 'local',
+        'filename': 'mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf',
+    },
     'CodeLlama-34b': {
         'url': 'https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-GGUF/resolve/main/codellama-34b-instruct.Q4_K_M.gguf',
         'type': 'local',
